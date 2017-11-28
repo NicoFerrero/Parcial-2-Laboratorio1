@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1511017064 source:d:\ferrero.nicolas\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"lib.h"
+
+1511013962 d:\ferrero.nicolas\arraylist.h
+
+1511117900 d:\ferrero.nicolas\lib.h
+
+1511445320 source:d:\ferrero.nicolas\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"lib.h"
+
+1511532033 source:d:\ferrero.nicolas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lib.h"
+	"ArrayList.h"
+	"socios.h"
+
+1511532033 d:\ferrero.nicolas\socios.h
+
+1511532857 source:d:\ferrero.nicolas\socios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arrayList.h"
+	"socios.h"
+	"lib.h"
+
+1511017064 source:c:\users\nico\desktop\parcial 2 (corregir)\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"lib.h"
+
+1511013962 c:\users\nico\desktop\parcial 2 (corregir)\arraylist.h
+
+1511117900 c:\users\nico\desktop\parcial 2 (corregir)\lib.h
+
+1511445320 source:c:\users\nico\desktop\parcial 2 (corregir)\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"lib.h"
+
+1511889579 source:c:\users\nico\desktop\parcial 2 (corregir)\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lib.h"
+	"ArrayList.h"
+	"socios.h"
+
+1511889080 c:\users\nico\desktop\parcial 2 (corregir)\socios.h
+
+1511889297 source:c:\users\nico\desktop\parcial 2 (corregir)\socios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arrayList.h"
+	"socios.h"
+	"lib.h"
+
